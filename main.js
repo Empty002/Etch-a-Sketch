@@ -151,7 +151,6 @@ function createGrid(size) {
       width: ${squareSize}px;
       height: ${squareSize}px;
       background-color: white;
-      border: 1px solid #EEE5E9;
       box-sizing: border-box;
     `;
 
